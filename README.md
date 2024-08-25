@@ -1,2 +1,9 @@
 # EXCEL_NEW
-This is going to be the track daily excel
+## DAY:1
+- Row Operation
+- Column Operations
+- Table Formation
+- Arithmetic Operation
+## Day: 2
+
+-
